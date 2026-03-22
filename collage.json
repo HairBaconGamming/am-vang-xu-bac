@@ -1,0 +1,638 @@
+{
+  "metadata": {
+    "title": "Âm vang xứ Bắc"
+  },
+  "canvas": {
+    "w": 1280,
+    "h": 720,
+    "background": "#4b4b4b",
+    "texture": "none"
+  },
+  "items": [
+    {
+      "id": "img-u93r9",
+      "kind": "image",
+      "src": "assets/793da659-f67e-43a9-bcba-150c949d8257.png",
+      "x": 270,
+      "y": 260,
+      "w": 200,
+      "h": 160,
+      "rotation": 5,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Hoàng thành Thăng Long",
+        "subtitle": "Dấu ấn rồng bay - Nghìn năm vượng khí",
+        "description": "Từng viên gạch rêu phong nơi đây đều thấm đẫm hơi thở của các triều đại huy hoàng. Dạo bước giữa Hoàng thành là hành trình chạm tay vào những trang sử vàng son của Thăng Long kẻ chợ, cảm nhận nhịp đập của một kinh đô ngàn năm tuổi.",
+        "link": "https://trungbayonline.hoangthanhthanglong.vn",
+        "tags": [
+          "#HoangThanhThangLong #DiSanVanHoa #LichSuVietNam #ThangLongHaNoi #HanoiHeritage"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://media.vietnamarchi.vn/upload/userfiles/files/1704_3.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://booking.muongthanh.com/upload_images/images/2024%20-%20Nh/H%C3%A0/kien-truc-hoang-thanh-thang-long.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-jrxyq",
+      "kind": "image",
+      "src": "assets/ed2f4fe9-7dc6-4fa2-9230-cc0c6342f770.png",
+      "x": 40,
+      "y": 40,
+      "w": 240,
+      "h": 240,
+      "rotation": -10,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Văn Miếu - Quốc Tử Giám",
+        "subtitle": "Mạch nguồn trí tuệ - Khởi nguyên đạo học",
+        "description": "Dưới những tán cây cổ thụ trầm mặc, Khuê Văn Các kiêu hãnh vươn cao như biểu tượng bất diệt của tinh thần hiếu học. Nơi đây lưu giữ nhịp đập của tri thức ngàn đời, thắp sáng khát vọng vươn lên của bao thế hệ.",
+        "link": "https://vr360.com.vn/projects/van-mieu-quoc-tu-giam",
+        "tags": [
+          "#VanMieuQuocTuGiam #DaoHocVietNam #KienTrucCo #TempleOfLiterature #HanoiCulture"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://cdn.tuoitrethudo.vn/stores/news_dataimages/2023/102023/13/19/kham-pha-van-hoa-va-lich-su-tai-van-mieu-quoc-tu-giam-20231013192109.jpg?rt=20231013192215",
+            "note": ""
+          },
+          {
+            "url": "https://xinchaovietnam.vn/wp-content/uploads/2024/12/DA-LAT-7.png",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-o6fi2",
+      "kind": "image",
+      "src": "assets/485d5643-4542-4b1d-8109-41ded5f2228c.png",
+      "x": 40,
+      "y": 260,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "circle",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Vịnh Hạ Long (Quảng Ninh)",
+        "subtitle": "Kỳ quan đá dựng - Bản hòa tấu đại dương",
+        "description": "Hàng ngàn đảo đá muôn hình vạn trạng vươn lên từ mặt nước lục bảo, tựa như đàn rồng vừa thức giấc. Một kiệt tác thiên nhiên tráng lệ, nơi sương khói mờ ảo quyện cùng sóng nước tạo nên bức tranh thủy mặc khổng lồ.",
+        "link": "https://www.halomedia.vn/360tours/ha-long-bay",
+        "tags": [
+          "#VinhHaLong #HaLongBay #KyQuanThienNhien #DiSanTheGioi #UNESCO"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://statics.vinpearl.com/du-lich-vinh-Ha-Long-hinh-anh1_1625911963.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://images.baodantoc.vn/uploads/2023/Th%C3%A1ng%202/Ng%C3%A0y_13/Nga/007-rs-8636.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-eiv0k",
+      "kind": "image",
+      "src": "assets/bd67b2a3-8ae6-40c2-9a6a-0b184f3007d6.png",
+      "x": 880,
+      "y": 40,
+      "w": 160,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Quần thể di tích danh thắng Yên Tử (Quảng Ninh)",
+        "subtitle": "Đỉnh thiêng hội tụ - Cõi Phật giữa ngàn mây",
+        "description": "Từng bậc đá rêu phong dẫn lối lên ngôi chùa Đồng chót vót là hành trình tìm về sự an nhiên trong tâm hồn. Tiếng chuông ngân vang hòa cùng tiếng gió ngàn đưa lữ khách vào chốn bồng lai thanh tịnh.",
+        "link": "https://smarttravel-vr.mobifone.vn/vr-tour/quan-the-di-tich-va-danh-lam-thang-canh-yen-tu/66a8e8db9b37be124d53b99a",
+        "tags": [
+          "#YenTu #ChonThienMon #PhatGiaoTrucLam #QuangNinh #YenTuMountain"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://mia.vn/media/uploads/blog-du-lich/kham-pha-quan-the-khu-di-tich-yen-tu-voi-lich-su-lau-doi-1642551070.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://static.vinwonders.com/production/2025/03/chua-dong-yen-tu.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-r8hwm",
+      "kind": "image",
+      "src": "assets/b1b74f71-e973-4669-ba9f-9c8e02fceff9.png",
+      "x": 680,
+      "y": 40,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "circle",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Ninh Bình (Vùng đất Cố đô)",
+        "subtitle": "Tuyệt tác non nước hữu tình - Miền di sản thức giấc",
+        "description": "Ninh Bình là sự hòa quyện hoàn mỹ giữa vẻ đẹp rêu phong của lịch sử và cảnh sắc thiên nhiên kỳ vĩ. Trải nghiệm ngồi thuyền nan xuôi dòng ngắm mây trời ở Tam Cốc, băng qua những hang động xuyên thủy hay chinh phục đỉnh Hang Múa vắt vẻo lưng chừng núi, lữ khách như được bước vào một bức tranh thủy mặc khổng lồ, tĩnh lặng và đầy chất thơ.",
+        "link": "https://www.halomedia.vn/360tours/ninh-binh",
+        "tags": [
+          "#NinhBinh #TamCocBichDong #HangMua #CoDoHoaLu #TrangAn #DiSanNinhBinh #VietnamTravel"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://mia.vn/media/uploads/blog-du-lich/co-do-hoa-lu-dau-an-vang-son-cua-mot-thoi-dan-toc-oai-hung-1640595468.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://image.vovworld.vn/w500/Uploaded/vovworld/ujwyqdxwp/2014_11_07/tam%20coc.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-kub23",
+      "kind": "image",
+      "src": "assets/c5e62599-45fc-4b45-9526-1759c7341d0f.png",
+      "x": 280,
+      "y": 40,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "torn",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Thị xã Sa Pa (Lào Cai)",
+        "subtitle": "Thị trấn mờ sương - Chạm tay vào mây ngàn Tây Bắc",
+        "description": "Lẩn khuất trong mây ngàn, Sa Pa mang vẻ đẹp lãng mạn và bình yên đến lạ. Khung cảnh những thửa ruộng bậc thang kỳ vĩ uốn lượn quanh bản làng mộc mạc, cùng nhịp sống văn hóa rực rỡ sắc màu của đồng bào vùng cao tạo nên một bức tranh Tây Bắc say đắm lòng người. Trải nghiệm cái lạnh se sắt và nhâm nhi ly trà ấm giữa biển mây chắc chắn sẽ khiến lữ khách vương vấn mãi không quên.",
+        "link": "https://3d.vrtour.vn/tour/sapa/thi-xa-sapa.html",
+        "tags": [
+          "#SaPa #ThiTranMoSuong #DuLichTayBac #RuongBacThang #LaoCai #KhamPhaTayBac"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Th%E1%BB%8B_tr%E1%BA%A5n_Sa_Pa.jpg/960px-Th%E1%BB%8B_tr%E1%BA%A5n_Sa_Pa.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqkmZFMNdSmqBhUDopw4bGbyFsb9h4MUgFw&s",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-0nwfa",
+      "kind": "image",
+      "src": "assets/6fcbb563-36b0-45bb-88bd-a2b5fcba4488.png",
+      "x": 480,
+      "y": 240,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Chùa Hương (Hương Sơn) – Hà Nội",
+        "subtitle": "Trẩy hội miền tiên cảnh – Nam thiên đệ nhất động",
+        "description": "Không chỉ là một chuyến đi lễ Phật, hành trình về với chùa Hương là sự kết hợp tuyệt mĩ giữa tâm linh và thiên nhiên. Ngồi thuyền xuôi dòng suối Yến, ngắm nhìn núi non trùng điệp, lữ khách sẽ thấy lòng mình nhẹ tênh trước vẻ đẹp thoát tục của động Hương Tích.",
+        "link": "https://booking.muongthanh.com/tin-tuc/kham-pha-chi-tiet-chua-huong-ha-noi",
+        "tags": [
+          "#ChuaHuong #HaTay #HaNoi #DuLichTamLinh #SuoiYen"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://booking.muongthanh.com/upload_images/images/H%60/den-trinh.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://mia.vn/media/uploads/blog-du-lich/huong-dan-duong-tu-ha-noi-di-chua-huong-hanh-huong-le-phat-02-1639819903.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-m9bln",
+      "kind": "image",
+      "src": "assets/00378b07-fcab-4954-9596-002da4dd470c.png",
+      "x": 1040,
+      "y": 40,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Khu di tích lịch sử Đền Hùng – Phú Thọ",
+        "subtitle": "Về miền đất Tổ – Cội nguồn dòng máu Lạc Hồng",
+        "description": "Tọa lạc trên núi Nghĩa Lĩnh, Đền Hùng là nơi thờ tự các vua Hùng đã có công dựng nước. Bước lên những bậc đá cổ kính dưới tán rừng rậm rạp, mỗi người dân Việt như đang tìm về với bản sắc, với lòng tự hào dân tộc và đạo lý \"Uống nước nhớ nguồn\" sâu sắc.",
+        "link": "https://dsvh.gov.vn/di-tich-lich-su-den-hung-2939",
+        "tags": [
+          "#DenHung #PhuTho #VinhPhu #CoiNguon #GioToHungVuong"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mausoleum_of_Hung_King.JPG",
+            "note": ""
+          },
+          {
+            "url": "https://gonow.com.vn/wp-content/uploads/2024/04/den-hung-phu-tho-7.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-32cxm",
+      "kind": "image",
+      "src": "assets/c08908e3-f3c3-459a-b2a4-a70728ab6084.png",
+      "x": 680,
+      "y": 240,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Cao nguyên đá Đồng Văn – Hà Giang",
+        "subtitle": "Bản tình ca từ đá – Đánh thức miền cực Bắc",
+        "description": "Nơi những dãy núi đá vôi xám ngắt nở hoa, nơi có những cung đường đèo Mã Pì Lèng huyền thoại uốn lượn như dải lụa vắt ngang lưng trời. Đồng Văn không chỉ có cảnh sắc kỳ vĩ mà còn là nơi lưu giữ nét văn hóa đặc sắc của đồng bào H’Mông, Dao, Lô Lô... giữa không gian bao la của đất trời.",
+        "link": "https://vnexpress.net/cao-nguyen-da-dong-van-la-diem-den-van-hoa-hang-dau-chau-a-4951051.html",
+        "tags": [
+          "#HaGiang #DongVan #MaPiLeng #HaTuyen #DuLichVungCao"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/10/den-ha-giang-kham-pha-thien-duong-xam-cao-nguyen-da-dong-van-e1507107794282.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAhSU2sXeDYm088qOyFirJIAOhj6xHBP5kg&s",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-srnrz",
+      "kind": "image",
+      "src": "assets/9af175a9-ba89-4102-ab9a-e274de303cdf.png",
+      "x": 480,
+      "y": 40,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Di tích Lò Cao kháng chiến Hải Vân",
+        "subtitle": "Kỳ tích trong lòng hang đá – Ngọn lửa thép giữa rừng xanh",
+        "description": "Nằm ẩn mình trong hang núi Đồng Mười, Lò Cao Hải Vân là \"địa chỉ đỏ\" ghi dấu huyền thoại của ngành Quân giới. Giữa muôn vàn thiếu thốn, bằng đôi bàn tay và khối óc, quân và dân ta đã dựng nên lò luyện gang hiện đại ngay trong lòng hang đá, sản xuất hàng trăm tấn gang để chế tạo vũ khí, góp phần làm nên chiến thắng Điện Biên Phủ \"lừng lẫy năm châu\".",
+        "link": "https://vr360.com.vn/di-tich-lo-cao-khang-chien-hai-van",
+        "tags": [
+          "#LoCaoHaiVun #ThanhHoa #NhuThanh #QuanGioiVietNam #LichSuKhangChien #VR360"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://media.vietnamplus.vn/images/7255a701687d11cb8c6bbc58a6c807856b9b671c2266614c44f712b2061b506cd7338843fdd83ef233a294e6314588b7cb506ee83a95f9ad5c374dc1698d7540a79f34a1c69cb44d0caf5e9f24a128c3/lo-cao-khang-chien-hai-van1-9584.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://nld.mediacdn.vn/291774122806476800/2025/9/20/a1-1758370575157739845728.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-0szf1",
+      "kind": "image",
+      "src": "assets/66ecd0ca-f2b7-4fef-ae89-135ce72a49e9.png",
+      "x": 880,
+      "y": 240,
+      "w": 320,
+      "h": 240,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Thành Nhà Hồ (Thanh Hóa)",
+        "subtitle": "Kỳ tích đá nghìn năm – Di sản kiên cố bậc nhất Đông Nam Á",
+        "description": "Được xây dựng bằng những khối đá khổng lồ chỉ trong vỏn vẹn 3 tháng, Thành Nhà Hồ là minh chứng cho trí tuệ vượt bậc của cha ông ta. Tour VR360 sẽ đưa bạn đi xuyên qua những cổng thành rêu phong, chiêm ngưỡng sự kỳ vĩ của một công trình độc nhất vô nhị đã được UNESCO vinh danh.",
+        "link": "https://vinpearl.com/vi/thanh-nha-ho-di-tich-lich-su-dia-diem-du-lich-noi-tieng-bac-nhat-xu-thanh",
+        "tags": [
+          "#ThanhNhaHo #ThanhHoa #UNESCO #DiSanTheGioi #KienTrucDa"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/10/den-ha-giang-kham-pha-thien-duong-xam-cao-nguyen-da-dong-van-e1507107794282.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAhSU2sXeDYm088qOyFirJIAOhj6xHBP5kg&s",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "image-egtsw",
+      "kind": "image",
+      "src": "assets/756b85de-0936-4002-9914-f1fb8313a1b8.png",
+      "x": 40,
+      "y": 440,
+      "w": 400,
+      "h": 280,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Khu lưu niệm Chủ tịch Hồ Chí Minh trên đảo Cô Tô (Quảng Ninh)",
+        "subtitle": "Cột mốc tâm linh giữa trùng khơi – Hình bóng Người soi sáng biển Đông",
+        "description": "Đứng uy nghiêm hướng nhìn ra biển cả bao la, tượng đài Bác Hồ trên đảo Cô Tô là biểu tượng của chủ quyền thiêng liêng và lòng biết ơn vô hạn. Giữa tiếng sóng vỗ rì rào của \"viên ngọc xanh\" vùng Đông Bắc, khu lưu niệm với vườn cây vú sữa, ao cá và ngôi nhà sàn giản dị gợi nhắc về vị Cha già dân tộc – người luôn dành tình yêu đau đáu cho dải đất biên cương, hải đảo.",
+        "link": "https://vr360.com.vn/projects/khu-luu-niem-chu-tich-ho-chi-minh/",
+        "tags": [
+          "#HaGiang #DongVan #MaPiLeng #HaTuyen #DuLichVungCao"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://cdn.tienphong.vn/images/a6bf4f60924201126af6849ca45a398054e1e00c0ae78c4333d644b08792045a1aa5fae13e3dd958c55b222dd18af7629e5921f16a71365479f61a682a30b4572cccd98428d034c569a9c45a6e5e83ac/tp-quocnam-z62-3056-7954-3040.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://media.baoquangninh.vn/upload/image/202205/medium/1965809_khu_07482403.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "img-k8hix",
+      "kind": "image",
+      "src": "assets/89c8a423-a765-4e27-bec8-167458b5bcfa.gif",
+      "x": 640,
+      "y": 480,
+      "w": 200,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 14,
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "info": {
+        "link": "https://vr360.com.vn/projects/dulich-caobang/",
+        "title": "Du lịch Cao Bằng – Miền biên cương kỳ vĩ",
+        "subtitle": "Non nước hữu tình – Bản trường ca từ đại ngàn Đông Bắc",
+        "description": "Cao Bằng không chỉ có thác Bản Giốc hùng vĩ tựa chốn bồng lai, mà còn là nơi lưu giữ \"mạch ngầm\" lịch sử tại suối Lê-nin, núi Các Mác. Với danh hiệu Công viên địa chất toàn cầu UNESCO, mỗi cung đường tại Cao Bằng đều kể một câu chuyện về sự kiến tạo của vỏ trái đất qua hàng triệu năm, hòa quyện cùng sắc màu văn hóa độc đáo của đồng bào Tày, Nùng, Mông, Dao... tạo nên một sức hút mãnh liệt cho bất kỳ lữ khách nào bước chân tới miền biên viễn này.",
+        "tags": [
+          "#CaoBang #NonNuocCaoBang #UNESCO #ThacBanGioc #PacBo #CaoBacLang #DuLichDongBac"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://media.vietnamplus.vn/images/7255a701687d11cb8c6bbc58a6c8078512a9cc301a6482436b2b9e5eac5d7192a484a544a4988855a95652703b79ec68a74f6b1bfe70b3203772c7979020cefa/3009bangioc.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlY0toteZttEqJG5GW4AEH0Dg2mhKh838wMA&s",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "hoverEffect": "glow-intense"
+    },
+    {
+      "id": "img-jktvn",
+      "kind": "image",
+      "src": "assets/9fe2495d-2d0b-4ed4-8f27-0849dc0ab552.gif",
+      "x": 880,
+      "y": 480,
+      "w": 360,
+      "h": 200,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 14,
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "info": {
+        "link": "https://vrplus.info/vrcenter/danphuong_hamo",
+        "tags": [
+          "#HaMo #DanPhuong #HaTay #KinhDoODien #HanoiHeritage #VanHoaViet #VR360"
+        ],
+        "title": "Di tích lịch sử xã Hạ Mỗ (Đan Phượng, Hà Nội)",
+        "subtitle": "Kinh đô Ô Diên vang bóng – Dấu ấn ngàn năm văn hiến xứ Đoài",
+        "description": "Bước vào Hạ Mỗ là bước vào không gian của những di sản quốc gia đặc biệt. Từ chùa Thân Sa cổ kính đến đền Hàm Rồng uy nghiêm, và đặc biệt là đình Vạn Xuân – nơi thờ danh tướng Lý Phục Man. Mỗi ngõ đá, cổng làng nơi đây đều kể câu chuyện về một kinh đô cổ xưa, nơi tinh hoa văn hóa và đạo học vẫn được gìn giữ vẹn nguyên qua bao thế hệ.",
+        "thumbnails": [
+          {
+            "url": "https://hnm.1cdn.vn/2024/03/05/ha-mo-2.jpeg",
+            "note": ""
+          },
+          {
+            "url": "https://hnm.1cdn.vn/2024/03/05/ha-mo.jpeg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "id": "image-3cqqi",
+      "kind": "image",
+      "src": "assets/43c03c8a-2f51-45d9-8e5f-8cd7099a6937.png",
+      "x": 440,
+      "y": 440,
+      "w": 200,
+      "h": 240,
+      "rotation": 0,
+      "shape": "rect",
+      "frame": "none",
+      "z": 1,
+      "visible": true,
+      "locked": false,
+      "info": {
+        "title": "Danh thắng quốc gia ruộng bậc thang Mù Cang Chải (Yên Bái)",
+        "subtitle": "Nấc thang lên thiên đường – Bản tình ca vàng óng giữa ngàn mây",
+        "description": "Những thửa ruộng uốn lượn như những dải lụa vàng rực rỡ dưới ánh nắng mùa thu, ôm trọn các sườn núi kỳ vĩ. Đây là thành quả từ sự sáng tạo và lao động bền bỉ của đồng bào người Mông, tạo nên một kỳ quan nông nghiệp độc nhất vô nhị, nơi đất và trời như hòa làm một trong sắc lúa chín thơm nồng.",
+        "link": "https://www.youtube.com/watch?v=6x7aT84FzmA",
+        "tags": [
+          "#ChuaHuong #HaTay #HaNoi #DuLichTamLinh #SuoiYen"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://bvhttdl.mediacdn.vn/2020/3/18/r-1584505029528160339708-1584523601964-1584523601964888086152.jpg",
+            "note": ""
+          },
+          {
+            "url": "https://sctyenbai.gov.vn/sites/default/files/182245_danh-thang.jpg",
+            "note": ""
+          }
+        ],
+        "thumbnailNotes": [
+          "",
+          ""
+        ]
+      },
+      "backgroundVisible": true,
+      "backgroundColor": "#ffffff",
+      "backgroundOpacity": 0,
+      "hoverEffect": "glow-intense"
+    }
+  ]
+}
